@@ -25,7 +25,7 @@ const Home = () => {
         <VStack spacing={8} textAlign="center" width="100%">
           <HeaderComponent />
 
-          <SpeechRecognitionComponent />
+          {/* <SpeechRecognitionComponent /> */}
 
           <ImageGalleryComponent />
 
